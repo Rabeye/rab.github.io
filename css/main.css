@@ -6,12 +6,7 @@ body {
 .parallax {
   /* The image used */
   background-image: url("https://i.ibb.co/k1sByxF/IMG-20200726-125112-EFFECTS.jpg");
-  background-image: url("https://drive.google.com/file/d/1mZvYeeBtjdAl3y3Vl9AS_gt7bFvlh7vX/preview");
-  background-image: url("https://photos.app.goo.gl/TEcqqK9Gnde92FGR8");
-  background-image: url("https://lh3.googleusercontent.com/ncHIKIjqrdJUXuifkGl5_OBYXauQGQJ3ukwt139ma6GaBIeUlYx5_QnUbLcMPaGP4ryf3fywdXOWoFkEXur7WqI5rLJ0VkGi0dfbjXexGOUkxaF0HNDfxobaAR3IrGuhiY84kTubUbwG_kFzVvypftzxEFEVfVRvQAi4K9wk6drPK-NJh6TgvCGyzLyss0gkhwHcBhlViKes0ZE-5kI5phWFq6PXGajbL1rgef1IPD3Dl95Ks6ubqGMEpHnqtrPBBtmpZL4OJ-Kay7zh5JfsWjtwEUW0r-28U3658xWT_7W20qODxBP4M94MBmwV4vyvlZhGcHY3iHjCw4IRs_HF3XNanYQ8nvgUZat45_9FwkpB8e9cw8-F9xuC7PQIz7Dw6K6D9_M_Y416HwFA06a8HuId23mXtB8mXDTHBg5waQSpkJC6VX0PCkfy0WG6KIUfuc04FuE2jWufW709LGrTEgpT2KnyLmZus5ryVw8aEekerPOeRPhCO-L7q9kQHcGwInNW75Kj4A7620kDAfvHk9wXoj-3QUdlCT3uXTg7ozCtaNWydTWLm5MfKfHMdduUv8OfUV-U-ku96icvAD2H7u9faQouO47yQUU7f8aTsAEfjHosSDYMlmUvAu6Ff9mzdVqAKITdmcTAXzHXtowCDQTx7y5moDmPXLVxcXOKdyfUy-XLCkG-FnAVuP8b=w1288-h966-no?authuser=0");
-  background-image: <iframe src="https://drive.google.com/file/d/1mZvYeeBtjdAl3y3Vl9AS_gt7bFvlh7vX/preview" width="640" height="480"></iframe>;
     
-
   /* Full height */
   height: 100%;
 
