@@ -3,20 +3,6 @@ body {
     width: 70%;
 }
 
-.parallax {
-  /* The image used */
-  background-image: url("https://i.ibb.co/k1sByxF/IMG-20200726-125112-EFFECTS.jpg");
-    
-  /* Full height */
-  height: 100%;
-
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
