@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Multi Medium Projects</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<style>
+			body, html {
+  			height: 100%;
+			}
 
+			.parallax {
+  			/* The image used */
+  			background-image: url('https://i.ibb.co/k1sByxF/IMG-20200726-125112-EFFECTS.jpg');
+
+  			/* Full height */
+  			height: 100%; 
+
+  			/* Create the parallax scrolling effect */
+ 			 background-attachment: fixed;
+ 			 background-position: center;
+  			background-repeat: no-repeat;
+ 			background-size: cover;
+			}
+				
+		</style>
+	</head>
+	<body>
+			<div class="parallax"></div>
+			<div style="height:1000px>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/About">About</a></li>
+        		<li><a href="/Games">Games</a></li>
+			<li><a href="/MMP">Mixed Media Projects</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Projects</h1>
+				<p>These or projects that I do on a whim.</p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:@gmail.com">email</a></li>
+        		<li><a href="http://rabeye.github.io/">Github.com/Rabeye</a></li>
+			</ul>
+		</footer>
+			</div>
+			<div class="parallax"></div>
+	</body>
+</html>
